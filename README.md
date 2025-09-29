@@ -2,10 +2,12 @@
 # mi titulo
 ## subtitulo
 
-*cursiva*
+*CURSIVA*
 
-**negrita**
+**NEGRITA**
 
-*manzana
-*naranja
-*melon
+*MANZANA
+*NARANJA
+*MELÓN
+       *PIEL DE SAPO
+       *DE GALIA
