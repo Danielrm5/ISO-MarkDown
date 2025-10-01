@@ -65,7 +65,6 @@ fi
 <!-- En nuestro directorio -->
 
 ![Mazinger Z](/img/mazingerz.jpg)
-
 <!-- En un subdirectorio -->
 
 ![heidi](/img/heidi.jpeg)
